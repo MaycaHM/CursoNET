@@ -1,0 +1,15 @@
+/workspaces/CursoNET/bin/Debug/net8.0/CursoNET
+/workspaces/CursoNET/bin/Debug/net8.0/CursoNET.deps.json
+/workspaces/CursoNET/bin/Debug/net8.0/CursoNET.runtimeconfig.json
+/workspaces/CursoNET/bin/Debug/net8.0/CursoNET.dll
+/workspaces/CursoNET/bin/Debug/net8.0/CursoNET.pdb
+/workspaces/CursoNET/obj/Debug/net8.0/CursoNET.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CursoNET/obj/Debug/net8.0/CursoNET.AssemblyInfoInputs.cache
+/workspaces/CursoNET/obj/Debug/net8.0/CursoNET.AssemblyInfo.cs
+/workspaces/CursoNET/obj/Debug/net8.0/CursoNET.csproj.CoreCompileInputs.cache
+/workspaces/CursoNET/obj/Debug/net8.0/CursoNET.sourcelink.json
+/workspaces/CursoNET/obj/Debug/net8.0/CursoNET.dll
+/workspaces/CursoNET/obj/Debug/net8.0/refint/CursoNET.dll
+/workspaces/CursoNET/obj/Debug/net8.0/CursoNET.pdb
+/workspaces/CursoNET/obj/Debug/net8.0/CursoNET.genruntimeconfig.cache
+/workspaces/CursoNET/obj/Debug/net8.0/ref/CursoNET.dll
